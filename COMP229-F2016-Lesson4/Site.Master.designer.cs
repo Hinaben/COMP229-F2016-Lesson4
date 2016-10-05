@@ -7,13 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP229_F2016_Lesson4
-{
-
-
-    public partial class Site
-    {
-
+namespace COMP229_F2016_Lesson4 {
+    
+    
+    public partial class Site {
+        
         /// <summary>
         /// form1 control.
         /// </summary>
@@ -22,7 +20,7 @@ namespace COMP229_F2016_Lesson4
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-
+        
         /// <summary>
         /// home control.
         /// </summary>
@@ -31,25 +29,7 @@ namespace COMP229_F2016_Lesson4
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl home;
-
-        /// <summary>
-        /// projects control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl projects;
-
-        /// <summary>
-        /// services control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl services;
-
+        
         /// <summary>
         /// about control.
         /// </summary>
@@ -58,7 +38,7 @@ namespace COMP229_F2016_Lesson4
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl about;
-
+        
         /// <summary>
         /// contact control.
         /// </summary>
@@ -67,7 +47,43 @@ namespace COMP229_F2016_Lesson4
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl contact;
-
+        
+        /// <summary>
+        /// departments control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl departments;
+        
+        /// <summary>
+        /// students control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl students;
+        
+        /// <summary>
+        /// enrollments control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl enrollments;
+        
+        /// <summary>
+        /// courses control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl courses;
+        
         /// <summary>
         /// MainContent control.
         /// </summary>

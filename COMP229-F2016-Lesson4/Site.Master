@@ -27,18 +27,21 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="Default.aspx"><i class="fa fa-fort-awesome fa-lg"></i>  Example ASP.NET Site</a>
+                    <a class="navbar-brand" href="Default.aspx"><i class="fa fa-fort-awesome fa-lg"></i>  Contoso University</a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
                     <ul class="nav navbar-nav navbar-right">
-                        <li id="home" runat="server"><a href="Default.aspx"><i class="fa fa-home fa-lg"></i>  Home</a></li>
-                        <li id="projects" runat="server"><a href="Projects.aspx"><i class="fa fa-th fa-lg"></i>  Projects</a></li>
-                        <li id="services" runat="server"><a href="Services.aspx"><i class="fa fa-gear fa-lg"></i>  Services</a></li>
+                        <li id="home" runat="server"><a href="Default.aspx"><i class="fa fa-home fa-lg"></i>  Home</a></li>                      
                         <li id="about" runat="server"><a href="About.aspx"><i class="fa fa-info fa-lg"></i>  About</a></li>
                         <li id="contact" runat="server"><a href="Contact.aspx"><i class="fa fa-phone fa-lg"></i>  Contact</a></li>
+                        <li id="departments" runat="server"><a href="Departments.aspx"><i class="fa fa-puzzle-piece fa-lg"></i>  Departments</a></li>
+                        <li id="students" runat="server"><a href="Students.aspx"><i class="fa fa-paper-plane fa-lg"></i>  Sutdents</a></li>
+                        <li id="enrollments" runat="server"><a href="Enrollments.aspx"><i class="fa fa-map-o fa-lg"></i>  Enrollments</a></li>
+                        <li id="courses" runat="server"><a href="Courses.aspx"><i class="fa fa-info fa-lg"></i>  Courses</a></li>
+
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->
@@ -55,7 +58,7 @@
     <!-- Footer -->
     <nav class="navbar navbar-default navbar-fixed-bottom">
         <div class="container">
-            <h4>&copy; 2016 - Example ASP.NET Site - All Rights Reserved</h4>
+            <h4>&copy; 2016 - Contoso University - All Rights Reserved</h4>
         </div>
     </nav>
 

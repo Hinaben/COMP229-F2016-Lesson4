@@ -11,7 +11,7 @@ namespace COMP229_F2016_Lesson4
 {
 
 
-    public partial class Projects
+    public partial class Courses
     {
     }
 }

@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace COMP229_F2016_Lesson4
 {
-    public partial class Services : System.Web.UI.Page
+    public partial class Departments : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
